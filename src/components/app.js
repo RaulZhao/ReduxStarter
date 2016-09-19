@@ -9,7 +9,7 @@ const muiTheme = getMuiTheme({
     color: amber500,
     height: 50
   }
-})
+});
 
 class App extends Component {
   render() {
